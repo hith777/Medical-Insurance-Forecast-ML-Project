@@ -1,0 +1,4 @@
+1. EDA on Prices on charges based on the children column
+2. For both male and female, relationship between age, sex and children
+3. Based on the current data provided, predict the most probable region given that they are 32, female, BMI: 26. 40, male, 30. 65, female, no smoker, zero kids.
+4. Is there an inherent bias in insurance cost for females
